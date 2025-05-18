@@ -28,4 +28,4 @@ An easy batch file ONLY for people who ACCIDENTALLY enabled ColdTurkey.
 
 --
 
-[![](https://visitcount.itsvg.in/api?id=Foxy&label=Repo%20Views&color=3&icon=1&pretty=false)](https://visitcount.itsvg.in)
+[![](https://visitcountpro.netlify.app/api?id=Foxy&label=Repo%20Views&color=3&icon=1&pretty=false)](https://visitcountpro.netlify.app)
