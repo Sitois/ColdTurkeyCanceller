@@ -25,3 +25,7 @@ An easy batch file ONLY for people who ACCIDENTALLY enabled ColdTurkey.
 - Run the .bat file, Cold Turkey will be PAUSED.
 - Wait until the blocker end(timer)
 - Execute enabler.bat THEN uninstall Cold Turkey the normal way.
+
+--
+
+[![](https://visitcount.itsvg.in/api?id=Foxy&label=Repo%20Views&color=3&icon=1&pretty=false)](https://visitcount.itsvg.in)
