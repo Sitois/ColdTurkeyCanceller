@@ -7,25 +7,28 @@
   [![GitHub issues](https://img.shields.io/github/issues/Sitois/ColdTurkeyCanceller.svg?style=flat)](https://github.com/Sitois/ColdTurkeyCanceller/issues)
 </div>
 
-# ColdTurkeyCanceller
-An easy batch file ONLY for people who ACCIDENTALLY enabled ColdTurkey.
+###### only working on windows right now!
 
-### Note: This program will only PAUSE Cold Turkey and DOES NOT disable the current block 
+# 🦃 ColdTurkeyCanceller
+An easy batch file ONLY for people who ACCIDENTALLY enabled [ColdTurkey](https://getcoldturkey.com/).
+
+### 🖊 Note: This program will only PAUSE Cold Turkey and DOES NOT disable the current block 
 
 ## 💾 Installation
 1. Download the latest version from the [Releases](https://github.com/Sitois/ColdTurkeyCanceller/releases) section on GitHub.
 2. Double click the batch file.
 
-# How to use ?
+# ❓ How to use ?
 
-**First, this will only PAUSE Cold Turkey and DOES NOT disable the current block so DON'T open cold turkey again.**
+**First, this will only PAUSE Cold Turkey and DOES NOT disable the current block so DON'T open cold turkey again after launching the program.**
 
 ### __**Run the program as administrator**__
 - Check for the time left into the app.
-- Run the .bat file, Cold Turkey will be PAUSED.
-- Wait until the blocker end(timer)
+- Run the .bat file **AS ADMINISTRATOR**, Cold Turkey will be PAUSED.
+- Wait until the blocker end(the timer you've set on the blocker)
 - Execute enabler.bat THEN uninstall Cold Turkey the normal way.
 
---
+<br>
 
+---
 [![](https://visitcountpro.netlify.app/api?id=Foxy&label=Repo%20Views&color=3&icon=1&pretty=false)](https://visitcountpro.netlify.app)
